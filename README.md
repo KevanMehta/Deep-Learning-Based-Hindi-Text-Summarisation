@@ -1,1 +1,1 @@
-# Hindi-Text-Summarisation
+Abstractive & Extractive Approach for Hindi Text Summarisation. 
